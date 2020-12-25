@@ -5,6 +5,9 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Here is a cool python tool for tracking global Covid-19 status.
 
+## Screenshot
+![screenshot](https://github.com/Sumit-buddy/covid/blob/main/screenshot.jpg)
+
 ## Requirements
 - Python <i>v3+</i> <br>
 
