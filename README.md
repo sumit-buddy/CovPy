@@ -1,6 +1,6 @@
 # covid tracker
 
-[![Header](https://github.com/Sumit-buddy/yt-mp3/blob/master/images.jpeg "Header")](https://thetechnohack.cf/)
+[![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRehekDFyiXs4SfXKq5IzkdX1EMB_GtLbc6fA&usqp=CAU "Header")](https://thetechnohack.cf/)
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Here is a cool python tool for tracking global Covid-19 status.
