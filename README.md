@@ -31,7 +31,7 @@ python covid19.py
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
-## GitHub Stats
+## My GitHub Stats
 
 <a href="https://github.com/Sumit-buddy/covid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-buddy&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
