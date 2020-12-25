@@ -1,0 +1,6 @@
+arrow
+requests
+covid
+python-cfonts
+prettytable
+tqdm
