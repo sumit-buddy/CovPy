@@ -8,6 +8,9 @@ Here is a cool python tool for tracking global Covid-19 status.
 ## Screenshot
 ![screenshot](https://github.com/Sumit-buddy/covid/blob/main/screenshot.jpg)
 
+## Run on cloud shell
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FSumit-buddy%2Fcovid)
+
 ## Requirements
 - Python <i>v3+</i> <br>
 
