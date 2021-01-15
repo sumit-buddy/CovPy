@@ -16,7 +16,10 @@ Here is a cool python tool for tracking global Covid-19 status.
 
 ## Installation
 ```
-pkg install python
+git clone https://github.com/sumit-buddy/covid/
+
+cd covid
+
 pip install -r requirements.txt
 ```
 ## Usage
