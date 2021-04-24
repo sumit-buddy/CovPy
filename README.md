@@ -1,17 +1,19 @@
 ## CovPy - Python Covid Tracker
+CovPy is a colorful python tool for tracking global Covid-19 statistics.
+It uses **John Hopkins University API** to track Covid-19 disease statistics.
 
-[![Header](https://i.pinimg.com/originals/a8/d8/66/a8d866c87e75ae65af8a3f167ee1e8f6.gif, "Header")](https://thetechnohack.cf/)
+You can also get data from "worldometers.info" by passing the following argument :
+```
+covid = Covid(source="worldometers")
+```
 
-CovPy is a colorful python tool for tracking global Covid-19 statistics
+> There are 2 scripts named `CovPy.py` & `CovPy-simple.py` respectively. The first one uses ANSI color codes which may cause errors on **windows**. In such case you can use the second script.
 
-## Preview on Termux(Android)
+## Preview on Termux (Android)
 
 | Colorful | Simple |
 |---| --- |
 | ![CovPy-python covid tracking script](https://raw.githubusercontent.com/sumit-buddy/CovPy/main/img/CovPy-colorful.jpg) | ![CovPy-python covid tracking script](https://raw.githubusercontent.com/sumit-buddy/CovPy/main/img/CovPy-simple.jpg) |
-
-## Screenshot(old)
-![python covid tracker](https://raw.githubusercontent.com/sumit-buddy/CovPy/main/screenshot.jpg)
 
 ## Run on cloud shell
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FSumit-buddy%2FCovPy)
