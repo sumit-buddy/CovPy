@@ -1,4 +1,4 @@
-## CovPy - Python.Covid Tracker
+## CovPy - Python Covid Tracker
 
 [![Header](https://i.pinimg.com/originals/a8/d8/66/a8d866c87e75ae65af8a3f167ee1e8f6.gif, "Header")](https://thetechnohack.cf/)
 
