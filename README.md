@@ -1,52 +1,47 @@
-# Covid Tracker
+## CovPy - Python.Covid Tracker
 
-[![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRehekDFyiXs4SfXKq5IzkdX1EMB_GtLbc6fA&usqp=CA, "Header")](https://thetechnohack.cf/)
+[![Header](https://i.pinimg.com/originals/a8/d8/66/a8d866c87e75ae65af8a3f167ee1e8f6.gif, "Header")](https://thetechnohack.cf/)
 
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Here is a cool python tool for tracking global Covid-19 status.
+CovPy is a colorful python tool for tracking global Covid-19 statistics
 
-## Screenshot
-![screenshot](https://github.com/Sumit-buddy/covid/blob/main/screenshot.jpg)
+## Preview on Termux(Android)
+
+| Colorful | Simple |
+|---| --- |
+| ![CovPy-python covid tracking script](https://raw.githubusercontent.com/sumit-buddy/CovPy/main/img/CovPy-colorful.jpg) | ![CovPy-python covid tracking script](https://raw.githubusercontent.com/sumit-buddy/CovPy/main/img/CovPy-simple.jpg) |
+
+## Screenshot(old)
+![python covid tracker](https://raw.githubusercontent.com/sumit-buddy/CovPy/main/screenshot.jpg)
 
 ## Run on cloud shell
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FSumit-buddy%2Fcovid)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FSumit-buddy%2FCovPy)
 
 ## Requirements
-- Python <i>v3+</i> <br>
+- Python v3+<br>
 
 ## Installation
 ```
-git clone https://github.com/sumit-buddy/covid/
+git clone https://github.com/sumit-buddy/CovPy/
 
-cd covid
+cd CovPy
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
+
 ## Usage
 ```
-python covid19.py
+python3 CovPy.py
+```
+or
+```
+python3 CovPy-simple.py
 ```
 
 ## Features
 - [x] Track status with country name or id.
 - [x] Easy to use.
-- [x] Accurate and fast data delivery.
+- [x] Using best covid sdk
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
-
-## My GitHub Stats
-
-<a href="https://github.com/Sumit-buddy/covid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-buddy&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Sumit-buddy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumit-buddy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sumit's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Sumit-buddy/covid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-buddy&repo=covid&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-

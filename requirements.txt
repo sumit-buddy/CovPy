@@ -1,6 +1,4 @@
-arrow
-requests
 covid
-python-cfonts
+requests
 prettytable
-tqdm
+termcolor
