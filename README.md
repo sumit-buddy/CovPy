@@ -1,4 +1,4 @@
-## CovPy - Python Covid Tracker
+## CovPy
 CovPy is a colorful python tool for tracking global Covid-19 statistics.
 It uses **John Hopkins University API** to track Covid-19 disease statistics.
 
